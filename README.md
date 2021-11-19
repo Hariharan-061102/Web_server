@@ -49,7 +49,7 @@ httpd.serve_forever()
 ~~~
 
 ## OUTPUT:
-![Github logo](IMAGE.jpeg)
+![Github logo](image1.png)
 
 
 
